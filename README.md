@@ -8,7 +8,7 @@ Up-to-date documentation for the latest versions of LVGL can be found at [https:
 
 ## Structure
 
- - `index.html` is the documentation. Open this file in a web browser, or visit [https://2918h.github.io/LVGL_v5-3_Documentation_Archive/](https://2918h.github.io/LVGL_v5-3_Documentation_Archive/)
+ - `index.html` is the documentation. Open this file in a web browser, or visit [https://gcec-2918.github.io/LVGL_v5-3_Documentation_Archive/](https://gcec-2918.github.io/LVGL_v5-3_Documentation_Archive/)
  - `docs_v5_3/` is the directory where all the documentation build files are. This directory has it's own `README.md` file, read that for build instructions
  - There are additional PDF versions of the documentation in `docs_v5_3/pdf/`, in Turkish, Brazillian Portuguese, Español, and English
 
